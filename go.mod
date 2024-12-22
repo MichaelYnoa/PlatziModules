@@ -1,3 +1,3 @@
-module github.com/MichaelYnoa/Platzi.git/src/Curso_intermedio_part_1/go_Modules/MyOwnModule
+module github.com/MichaelYnoa/PlatziModules
 
 go 1.23.4
